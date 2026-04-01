@@ -1,0 +1,14 @@
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.AssemblyInfoInputs.cache
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.AssemblyInfo.cs
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.csproj.CoreCompileInputs.cache
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\bin\Debug\net8.0\Day6-Miniproject.exe
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\bin\Debug\net8.0\Day6-Miniproject.deps.json
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\bin\Debug\net8.0\Day6-Miniproject.runtimeconfig.json
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\bin\Debug\net8.0\Day6-Miniproject.dll
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\bin\Debug\net8.0\Day6-Miniproject.pdb
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.dll
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\refint\Day6-Miniproject.dll
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.pdb
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\Day6-Miniproject.genruntimeconfig.cache
+C:\Users\syukz\source\repos\Day6-Miniproject\Day6-Miniproject\obj\Debug\net8.0\ref\Day6-Miniproject.dll
